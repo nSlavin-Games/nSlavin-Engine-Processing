@@ -1,0 +1,1 @@
+An examle game made with the nSlavingLibrary.
