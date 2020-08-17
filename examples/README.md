@@ -1,1 +1,1 @@
-An examle game made with the nSlavingLibrary.
+Example uses of the nSlavingLibrary.
